@@ -98,7 +98,7 @@ else if(play>=+501){
 }
 document.getElementById("play").innerHTML=text2;
 
-// Right version of if statement for play levels (play & text2 change to playy & text22 to avoid conflict with previous code)
+// Right version of if statement for play levels (play & text2 change to playy & text22)
 let playy = 500;
 let text22;
 if (playy <= 100) {
